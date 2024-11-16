@@ -17,8 +17,8 @@
     icon.style.position = 'fixed';
     icon.style.top = '90px';
     icon.style.left = '20px';
-    icon.style.width = '30px';
-    icon.style.height = '30px';
+    icon.style.width = '50px';
+    icon.style.height = '50px';
     icon.style.borderRadius = '50%'; // Make it a circle
     icon.style.backgroundColor = 'orange'; // Change the color
     icon.style.cursor = 'pointer';
